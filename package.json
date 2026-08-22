@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "core-js": "3.8.3",
+    "gsap": "3.11.5",
     "kdu": "3.2.38",
     "kdu-router": "4.0.16"
   },
